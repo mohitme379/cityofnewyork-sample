@@ -5,7 +5,7 @@
 - Two ways to authenticate
     - Basic HTTP (App token is set as ***X-App-Token*** in the header of the request)
     - Oauth - [*https://dev.socrata.com/docs/authentication.html*](https://dev.socrata.com/docs/authentication.html)
-- Autherticated users can get 1000 requests per rolling hour
+- Authenticated users can get 1000 requests per rolling hour
 
 # APIs and Data
 
