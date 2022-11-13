@@ -58,7 +58,7 @@ for (let i = 0; i < iterateCount; i++) {
         latitude: data.latitude,
       });
 
-      await newData.save((err, res) => {
+      newData.save((err, res) => {
         console.log(res);
       });
     }
